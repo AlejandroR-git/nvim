@@ -1,6 +1,6 @@
 # nvim
 1. Clone this repository into this directory: ~/.config
-2. Clone vimPlug repository using this commandline: 
+2. Clone vimPlug repository using this commandline: \n
     -> sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 3. Install Node 12 using this commands: 
